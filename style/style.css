@@ -1,5 +1,4 @@
-.header image{
-    image-rendering: crisp-edges;
+.header {
     background-color: black;
     text-align: center;
 }
