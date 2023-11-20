@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a personal portfolio website for Olivia Woodruff, a developer specializing in HTML and CSS. The website showcases Olivia's web development and design projects, and provides contact information.
+This project is a personal portfolio website for Olivia Woodruff, a developer specializing in HTML and CSS. The website showcases Olivia's web development and design projects, and provides contact information. This is a very basic website I made to practice HTML and CSS.
 
 ## Features
 
